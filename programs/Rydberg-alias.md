@@ -9,8 +9,9 @@ alias permittivity_of_vacuum = {8.85419e-12}
 alias Planck_constant = {6.62608e-34}
 alias speed_of_light = {2.99792e+8}
 alias x^3 = {3 y^x}
+alias x^4 = {4 y^x}
 
-elementary_charge  4  y^x
+elementary_charge x^4
 electron_rest_mass *
 permittivity_of_vacuum x^2
 8 *
