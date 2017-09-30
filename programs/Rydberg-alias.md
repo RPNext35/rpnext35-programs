@@ -2,7 +2,7 @@
 
 This program calculates the Rydberg constant from fundamental physics constants.
 
-```rpn
+```text
 alias electron_rest_mass 9.10938e-31
 alias elementary_charge 1.60218e-19
 alias permittivity_of_vacuum 8.85419e-12
