@@ -2,7 +2,7 @@
 
 This program calculates the Rydberg constant from fundamental physics constants.
 
-```
+```rpn
 9.10938e-31
 1.60218e-19
 4

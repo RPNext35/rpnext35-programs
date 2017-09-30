@@ -8,7 +8,7 @@ A = πd²/4
 
 P = πd
 
-```
+```rpn
 sto
 enter
 mul
