@@ -8,7 +8,7 @@ A = πd²/4
 
 P = πd
 
-```text
+```txt
 sto
 enter
 mul
