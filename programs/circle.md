@@ -9,14 +9,14 @@ A = πd²/4
 P = πd
 
 ```txt
-sto
+sto.a
 enter
 *
 4
 /
 pi
 *
-rcl
+rcl.a
 pi
 *
 ```
