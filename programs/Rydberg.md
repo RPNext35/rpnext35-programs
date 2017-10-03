@@ -6,7 +6,7 @@ This program calculates the Rydberg constant from fundamental physics constants.
 9.10938e-31
 1.60218e-19
 4
-pow
+y^x
 *
 8
 8.85419e-12
