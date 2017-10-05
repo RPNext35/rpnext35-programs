@@ -1,6 +1,6 @@
 # Simple aliases
 
-Some very simple aliases.
+Some simple aliases.
 
 
 ```txt
