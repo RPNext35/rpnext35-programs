@@ -3,8 +3,7 @@
 This program calculates the Rydberg constant from fundamental physics constants.
 
 ```txt
-alias x^3 = {3 y^x}
-alias x^4 = {4 y^x}
+import 'aliases'
 
 elementary_charge x^4
 electron_mass *
